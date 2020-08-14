@@ -6,30 +6,30 @@ https://studentmanagementsystem01.000webhostapp.com/
 
 Admin Control Structure:
 
- ● Add Co-Admin / Moderator
+ • Add Co-Admin / Moderator
  
- ● View Moderators
+ • View Moderators
  
- ● Add College
+ • Add College
  
- ● Add Student
+ • Add Student
  
- ● View College Students
+ • View College Students
  
- ● View Students Details
+ • View Students Details
  
- ● Edit Students Details
+ • Edit Students Details
  
- ● Delete Student
+ • Delete Student
  
- ● Login/Logout
+ • Login/Logout
  
  
 Moderator Control Structure:
 
 
- ● Login
+ • Login
  
- ● View all students Record added by admin
+ • View all students Record added by admin
  
- ● Logout
+ • Logout
