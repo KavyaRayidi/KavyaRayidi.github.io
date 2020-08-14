@@ -4,7 +4,7 @@ Website link:
 https://studentmanagementsystem01.000webhostapp.com/
 
 
-Admin Control Structure:
+# Admin Control Structure:
 
  • Add Co-Admin / Moderator
  
@@ -25,7 +25,7 @@ Admin Control Structure:
  • Login/Logout
  
  
-Moderator Control Structure:
+# Moderator Control Structure:
 
 
  • Login
